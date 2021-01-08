@@ -3,7 +3,7 @@ package pack;
 public class Sample2 {
 	
 	public static void main(String[] args) {
-		int number = 1234;
+		int number = 12345;
 		int digit = 0;
 		int reverse = 0;
 		while(number != 0){
